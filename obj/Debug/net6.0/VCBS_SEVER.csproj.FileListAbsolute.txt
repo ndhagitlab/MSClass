@@ -1,0 +1,14 @@
+D:\DepOps\ConsoleApp1\bin\Debug\net6.0\VCBS_SEVER.exe
+D:\DepOps\ConsoleApp1\bin\Debug\net6.0\VCBS_SEVER.deps.json
+D:\DepOps\ConsoleApp1\bin\Debug\net6.0\VCBS_SEVER.runtimeconfig.json
+D:\DepOps\ConsoleApp1\bin\Debug\net6.0\VCBS_SEVER.dll
+D:\DepOps\ConsoleApp1\bin\Debug\net6.0\VCBS_SEVER.pdb
+D:\DepOps\ConsoleApp1\obj\Debug\net6.0\VCBS_SEVER.GeneratedMSBuildEditorConfig.editorconfig
+D:\DepOps\ConsoleApp1\obj\Debug\net6.0\VCBS_SEVER.AssemblyInfoInputs.cache
+D:\DepOps\ConsoleApp1\obj\Debug\net6.0\VCBS_SEVER.AssemblyInfo.cs
+D:\DepOps\ConsoleApp1\obj\Debug\net6.0\VCBS_SEVER.csproj.CoreCompileInputs.cache
+D:\DepOps\ConsoleApp1\obj\Debug\net6.0\VCBS_SEVER.dll
+D:\DepOps\ConsoleApp1\obj\Debug\net6.0\refint\VCBS_SEVER.dll
+D:\DepOps\ConsoleApp1\obj\Debug\net6.0\VCBS_SEVER.pdb
+D:\DepOps\ConsoleApp1\obj\Debug\net6.0\VCBS_SEVER.genruntimeconfig.cache
+D:\DepOps\ConsoleApp1\obj\Debug\net6.0\ref\VCBS_SEVER.dll
