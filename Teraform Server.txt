@@ -29,3 +29,9 @@ resource "vsphere_virtual_machine" "vm" {
     path = "[datastore1] ISO/vmname.iso"
   }
 }
+
+provider "vsphere1" {
+  user     = "your-username"
+  password = "your-password"
+  vsphere_server = "vcenter.example.com"
+}
